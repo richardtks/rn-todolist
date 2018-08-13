@@ -1,5 +1,6 @@
-A simple ToDOs list that use react native:
-Features:
+# A simple ToDos list:
+
+## Features:
 1. Add item to your list.
 2. Remove single item
 3. Remove all completed items. 
