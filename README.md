@@ -7,5 +7,13 @@
 4. It has persists storage to store all your todos (✓)
 
 ## Screenshots:
-### 1. Add item to your list
+### Add item to your list
+![Add item](http://gdurl.com/ukHY)
+
+### Remove single item
+![Remove item](http://gdurl.com/oUqa)
+
+### Remove all completed items
+![Remove completed item](http://gdurl.com/dBVk)
+
 
