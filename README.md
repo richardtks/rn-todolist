@@ -1,5 +1,7 @@
 # A simple ToDos list:
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/richardtks/rn-todolist.svg)](https://greenkeeper.io/)
+
 ## Features:
 1. Add item to your list. (✓)
 2. Remove single item (✓)
